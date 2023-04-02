@@ -1,0 +1,98 @@
+header{
+    width: 100%;
+    height: 200px;
+    Background-color: purple;
+}
+
+table.spreadsheet {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table.spreadsheet td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+table {
+    Width: 100%;
+    height: 600px;
+}
+
+#vakkleur1 {
+    color: white;
+    background-color: rgb(9, 9, 170);
+}
+
+#vakkleur2 {
+    color: white;
+    background-color: rgb(163, 11, 11);
+}
+
+#vakkleur3 {
+    color: white;
+    background-color: rgb(210, 181, 17);
+}
+
+#vakkleur4 {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.785);
+}
+
+#vakkleur5 {
+    color: white;
+    background-color: rgba(30, 145, 30, 0.692);
+}
+
+#vakkleur6 {
+    color: white;
+    background-color: rgba(128, 0, 128, 0.749);
+}
+
+#vakkleur7 {
+    color: white;
+    background-color: rgba(165, 42, 42, 0.788);
+}
+
+#vakkleur8 {
+    color: white;
+    background-color: rgb(91, 91, 0);
+}
+
+#vakimg1 {
+    background-color: teal;
+}
+
+#vakimg2 {
+    background-color: indigo;
+}
+
+#vakimg3 {
+    background-color: darkgoldenrod;
+}
+
+#vakimg4 {
+    background-color: darkgreen;
+}
+
+#vakimg5 {
+    background-color: rgb(1, 1, 70);
+}
+
+#vakimg6 {
+    background-color: rgb(77, 1, 1);
+}
+
+#vakimg7 {
+    background-color: darkslategray;
+}
+
+#vakimg8 {
+    background-color: Cadetblue;
+}
+
+footer{
+    width: 100%;
+    Height: 200px;
+    background-color: purple;
+}
